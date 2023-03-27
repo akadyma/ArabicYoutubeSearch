@@ -1,0 +1,4 @@
+transformers
+sentence-transformers
+pinecone-client
+click==8.0
